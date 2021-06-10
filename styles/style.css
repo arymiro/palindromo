@@ -1,0 +1,36 @@
+body {
+    font-weight: normal;
+    background-color:white;
+    text-align: center;
+    margin: 10%;
+    border: 10%
+   }
+
+    #header {
+        width: 100%;
+        background: url('../images/images.png') no-repeat;
+        position: relative;
+        height: 150px;
+        background-position-x: 172px;
+        }
+   
+   .contenedor{
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid blue;
+    padding-top: 2%;
+    padding-bottom: 2%;
+   }
+
+   button{
+       color:white;
+       background-color: blue;
+       padding: auto;
+   }
+   h1{
+       color:blue;
+   }
+
+   h2{
+       color: red;
+   }
